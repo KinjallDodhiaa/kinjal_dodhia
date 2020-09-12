@@ -3,6 +3,8 @@
 
 >Planning is bringing the future into the present
 
+>Döner macht schöner
+
 ### Biography
 I worked as a financial consultant In Arya Equity Private ltd.
 
@@ -33,6 +35,8 @@ I do not like:
 ### Personal Information
 
 **Name**: Kinjal Dodhia
+
+**Gender**: Female
 
 **Location**:Hameln, Germany
 
